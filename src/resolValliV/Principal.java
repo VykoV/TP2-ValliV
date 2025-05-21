@@ -1,4 +1,4 @@
-package resol.ValliV;
+package resolValliV;
 
 import java.util.Scanner;
 
