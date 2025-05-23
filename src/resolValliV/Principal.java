@@ -36,6 +36,21 @@ public class Principal {
             case 5:
                 Ejercicio5 ejercicio5 = new Ejercicio5();
                 ejercicio5.ejercicio5();
+            case 6:
+                Ejercicio6 ejercicio6 = new Ejercicio6();
+                ejercicio6.ejercicio6();
+            case 7:
+                Ejercicio7 ejercicio7 = new Ejercicio7();
+                ejercicio7.ejercicio7();
+            case 8:
+                Ejercicio8 ejercicio8 = new Ejercicio8();
+                ejercicio8.ejercicio8();
+            case 9:
+                Ejercicio9 ejercicio9 = new Ejercicio9();
+                ejercicio9.ejercicio9();
+            case 10:
+                Ejercicio10 ejercicio10= new Ejercicio10();
+                ejercicio10.ejercicio10();
             case 11:
                 System.exit(0);
             default:
